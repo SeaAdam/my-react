@@ -26,7 +26,7 @@ const App = () => {
       avatarUrl:"https://placehold.co/150",
       name : "Angel Jones",
       email : "Angel.jones@notreal.com",
-      age: 23
+      age: 26
     }
  
   ];
